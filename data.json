@@ -1,0 +1,31 @@
+[{
+        "name": "Hoang anh",
+        "age": 21,
+        "adress": "Ha Noi",
+        "phoneNumber": 434343
+    },
+    {
+        "name": "Thu Thuy",
+        "age": 19,
+        "adress": "Thai Binh",
+        "phoneNumber": 545454
+    },
+    {
+        "name": "Hieu",
+        "age": 20,
+        "adress": "Hai Phong",
+        "phoneNumber": 453423
+    },
+    {
+        "name": "Huy",
+        "age": 19,
+        "adress": "Ha Nam",
+        "phoneNumber": 546542
+    },
+    {
+        "name": "Giang",
+        "age": 25,
+        "adress": "Ha Nam",
+        "phoneNumber": 323432
+    }
+]
